@@ -1,0 +1,3 @@
+# cancer-prediction-using-symptoms
+Problem statement for cancer prediction 
+Cancer is a complex and deadly disease that can affect different parts of the body. Early detection and accurate diagnosis are critical for successful treatment and improved patient outcomes. The problem statement for cancer prediction involves developing a machine learning model that can analyze patient data, such as medical history, genetic information, and test results, to predict the likelihood of developing cancer or the type of cancer that a patient may have. The goal is to improve early detection and increase the accuracy of cancer diagnosis, which can ultimately lead to better treatment options and improved patient survival rates.
